@@ -1,28 +1,23 @@
 # Hi there 👋 I am BRAHIM AJGAGAL
 
-### 1- Aslam's GitHub Stats Card
+## - Aslam's GitHub Stats Card
 
 <!--![Aslam's GitHub stats](https://github-readme-stats.vercel.app/api?username=AslamtoIbrahim&show_icons=true&theme=radical)-->
 ![](https://github-readme-stats.vercel.app/api?username=AslamtoIbrahim&show_icons=true&theme=shadowgreen&hide_border=false&layout=compact)
 
-### 2- GitHub Activity Graph
 
-<!--![Aslam's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AslamtoIbrahim&theme=github)-->
-![Aslam's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AslamtoIbrahim&theme=red)
-
-
-### 3- Top Languages Card
+## - Top Languages Card
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AslamtoIbrahim&layout=compact)
 
 
-### 4- GitHub Profile Summary
+## - GitHub Profile Summary
 
-![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AslamtoIbrahim&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AslamtoIbrahim&theme=vue)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AslamtoIbrahim&show&theme=shadow_gold&hide_border=false)
 
-### 💻 | Tech Skills
+## Tech Skills
 
 <p align="left">
  
@@ -42,5 +37,5 @@
 <br>
 
 [![](https://quotes-github-readme.vercel.app/api?quote=Everything%20happens%20for%20a%20reason.&border=true&type=horizontal&author=Unknown&theme=dark)](https://github.com/AslamtoIbrahim) 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=F70000&width=435&lines=Thank+you+for+your+visiting!+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=1000&color=blue&width=435&lines=Thank+you+for+your+visiting!)](https://git.io/typing-svg)
 
