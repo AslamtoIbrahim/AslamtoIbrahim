@@ -13,9 +13,9 @@
 
 ## - GitHub Profile Summary
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AslamtoIbrahim&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AslamtoIbrahim&theme=dark)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=AslamtoIbrahim&show&theme=shadow_gold&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=AslamtoIbrahim&show&theme=dark&hide_border=false)
 
 ## Tech Skills
 
