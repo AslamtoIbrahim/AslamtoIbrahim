@@ -37,11 +37,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AslamtoIbrahim&show&theme=shadow_red&hide_border=false&layout=compact) <br/><br/>
-![](https://github-readme-stats.vercel.app/api?username=AslamtoIbrahim&show&show_icons=true&theme=shadow_red) <br/> <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AslamtoIbrahim&show&theme=shadow_red&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AslamtoIbrahim&show&theme=shadow_greenyellow&hide_border=false&layout=compact) <br/><br/>
+![](https://github-readme-stats.vercel.app/api?username=AslamtoIbrahim&show&show_icons=true&theme=shadow_blue) <br/> <br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AslamtoIbrahim&show&theme=shadow_gold&hide_border=false)
 
 ### 💻 | Tech Skills
 
