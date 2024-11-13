@@ -36,7 +36,4 @@
 </p>
 <br>
 
-<!--[![](https://quotes-github-readme.vercel.app/api?quote=Everything%20happens%20for%20a%20reason.&border=true&type=horizontal&author=Unknown&theme=dark)](https://github.com/AslamtoIbrahim) 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=green &width=435&lines=Thank+you+for+your+visiting!)](https://git.io/typing-svg)-->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BDF71C&center=true&vCenter=true&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8CF71F&width=435&lines=Thank+you+for+visiting+my+profile+)](https://git.io/typing-svg)
