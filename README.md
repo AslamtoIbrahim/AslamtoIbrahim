@@ -1,6 +1,9 @@
 ## Hi there 👋
 ![Aslam's GitHub stats](https://github-readme-stats.vercel.app/api?username=AslamtoIbrahim&show_icons=true&theme=radical)
 
+![Aslam's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AslamtoIbrahim&theme=github)
+
+
 <!--
 **AslamtoIbrahim/AslamtoIbrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
