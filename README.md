@@ -2,8 +2,8 @@
 
 ## - Aslam's GitHub Stats Card
 
-<!--![Aslam's GitHub stats](https://github-readme-stats.vercel.app/api?username=AslamtoIbrahim&show_icons=true&theme=radical)-->
-![](https://github-readme-stats.vercel.app/api?username=AslamtoIbrahim&show_icons=true&theme=shadowgreen&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=AslamtoIbrahim&show_icons=true&theme=dark)
+
 
 
 ## - Top Languages Card
