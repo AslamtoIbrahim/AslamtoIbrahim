@@ -5,6 +5,16 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AslamtoIbrahim&layout=compact)
 
+### GitHub Profile Summary
+
+- **Total Repositories**: 14
+- **Top Languages**: JavaScript, Python, HTML
+- **Stars Received**: 10
+- **Most Active Hours**: 8:00 AM - 11:00 AM
+
+![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AslamtoIbrahim&theme=vue)
+
+
 
 
 <!--
