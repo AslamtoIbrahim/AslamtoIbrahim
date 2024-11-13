@@ -3,7 +3,7 @@
 ### 1- Aslam's GitHub Stats Card
 
 <!--![Aslam's GitHub stats](https://github-readme-stats.vercel.app/api?username=AslamtoIbrahim&show_icons=true&theme=radical)-->
-![](https://github-readme-stats.vercel.app/api?username=AslamtoIbrahim&show_icons=true&theme=greenyellow)
+![](https://github-readme-stats.vercel.app/api?username=AslamtoIbrahim&show_icons=true&theme=shadow green&hide_border=false&layout=compact)
 
 ### 2- GitHub Activity Graph
 
