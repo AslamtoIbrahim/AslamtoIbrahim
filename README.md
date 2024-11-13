@@ -8,7 +8,7 @@
 
 ## - Top Languages Card
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AslamtoIbrahim&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AslamtoIbrahim&layout=compact&theme=dark)
 
 
 ## - GitHub Profile Summary
