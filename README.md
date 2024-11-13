@@ -1,14 +1,14 @@
 # Hi there 👋 I am BRAHIM AJGAGAL
 
-### 1- GitHub Stats Card
+### 1- Aslam's GitHub Stats Card
 
-![Aslam's GitHub stats](https://github-readme-stats.vercel.app/api?username=AslamtoIbrahim&show_icons=true&theme=radical)
-
+<!--![Aslam's GitHub stats](https://github-readme-stats.vercel.app/api?username=AslamtoIbrahim&show_icons=true&theme=radical)-->
+![](https://github-readme-stats.vercel.app/api?username=AslamtoIbrahim&show_icons=true&theme=greenyellow)
 
 ### 2- GitHub Activity Graph
 
 <!--![Aslam's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AslamtoIbrahim&theme=github)-->
-![Aslam's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AslamtoIbrahim&theme=github)
+![Aslam's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AslamtoIbrahim&theme=red)
 
 
 ### 3- Top Languages Card
