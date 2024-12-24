@@ -1,4 +1,4 @@
-# Hi there 👋 I am BRAHIM AJGAGAL
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13D3F7&width=435&lines=Hi+there+%F0%9F%91%8B+I+am+BRAHIM+AJGAGAL)](https://git.io/typing-svg)
 
 ## - BRAHIM's GitHub Stats Card
 
@@ -32,4 +32,4 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=1FF72B&width=445&lines=Thank+you+for+visiting+my+profile+%F0%9F%98%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13D3F7&width=435&lines=Thank+you+for+visiting+my+profile+%F0%9F%98%8D)](https://git.io/typing-svg)
