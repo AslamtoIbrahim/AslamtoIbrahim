@@ -32,4 +32,4 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8CF71F&width=435&lines=Thank+you+for+visiting+my+profile+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79DD1&width=435&lines=Thank+you+for+visiting+my+profile+%F0%9F%98%8D)](https://git.io/typing-svg)
