@@ -32,9 +32,7 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />  
  </a>
  
-  <a class="inline-block" href="https://nextjs.org/" target="_blank" rel="noreferrer">  
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" />  
-</a>
+ 
   
 
 <a class="inline-block" href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">  
@@ -43,6 +41,9 @@
 
 <a class="inline-block" href="https://www.javascript.com/" target="_blank" rel="noreferrer">  
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />  
+</a>
+ <a class="inline-block" href="https://nextjs.org/" target="_blank" rel="noreferrer">  
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" />  
 </a>
 </p>
 
