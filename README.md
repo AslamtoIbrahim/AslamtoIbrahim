@@ -18,6 +18,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AslamtoIbrahim&show&theme=dark&hide_border=false)
 
 ## Tech Skills
+<style>  
+    .inline-block {  
+        display: inline-block;  
+        margin: 5px; /* Adds space between the icons */  
+    }  
+</style>
 
 <p align="center">
  
@@ -30,8 +36,17 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">  
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />  
  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">  
+  <a class="inline-block" href="https://nextjs.org/" target="_blank" rel="noreferrer">  
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" />  
+</a>
+  
+
+<a class="inline-block" href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">  
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS" />  
+</a>  
+
+<a class="inline-block" href="https://www.javascript.com/" target="_blank" rel="noreferrer">  
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />  
 </a>
 </p>
 
