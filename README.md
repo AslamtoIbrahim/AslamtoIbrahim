@@ -43,14 +43,6 @@
  </a>
 </p>
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" alt="Pull Shark Badge" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" alt="Quickdraw Badge" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" alt="YOLO Badge" />
-</p>
-
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13D3F7&width=435&lines=Thank+you+for+visiting+my+profile+%F0%9F%98%8D)](https://git.io/typing-svg)
