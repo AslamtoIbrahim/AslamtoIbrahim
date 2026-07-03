@@ -1,13 +1,18 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13D3F7&width=435&lines=Hi+there+%F0%9F%91%8B+I+am+BRAHIM+AJGAGAL" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13D3F7&width=435&lines=Hi+there+%F0%9F%91%8B+I+am+BRAHIM+AJGAGAL" alt="Hi" />
 </p>
 
 ## 📊 BRAHIM's GitHub Stats Card
-<img src="https://github-readme-stats.vercel.app/api?username=AslamtoIbrahim&show_icons=true&theme=dark" width="100%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AslamtoIbrahim&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
 
 ## 📈 GitHub Profile Summary
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AslamtoIbrahim&theme=dark" width="100%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AslamtoIbrahim&show&theme=dark&hide_border=false" width="100%" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AslamtoIbrahim&theme=dark" alt="Profile Details" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AslamtoIbrahim&show&theme=dark&hide_border=false" alt="Streak Stats" />
+</p>
 
 ## 🛠 Tech Skills
 <p align="center">
@@ -26,5 +31,5 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13D3F7&width=435&lines=Thank+you+for+visiting+my+profile+%F0%9F%98%8D" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13D3F7&width=435&lines=Thank+you+for+visiting+my+profile+%F0%9F%98%8D" alt="Thank you" />
 </p>
