@@ -3,14 +3,7 @@
 ## - BRAHIM's GitHub Stats Card
 
 ![](https://github-readme-stats.vercel.app/api?username=AslamtoIbrahim&show_icons=true&theme=dark)
-
-
-
-## - Top Languages Card
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AslamtoIbrahim&layout=compact&theme=dark)
-
-
+ 
 ## - GitHub Profile Summary
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AslamtoIbrahim&theme=dark)
