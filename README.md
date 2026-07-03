@@ -1,35 +1,28 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13D3F7&width=435&lines=Hi+there+%F0%9F%91%8B+I+am+BRAHIM+AJGAGAL" alt="Hi" />
+# Hi, I'm BRAHIM AJGAGAL 👋
+
+📍 **Morocco** | 💻 **Frontend Developer**
+
+Passionate about building responsive, modern web applications. Currently focused on **React**, **TypeScript**, and **Tailwind CSS**. I enjoy crafting clean, user-centric interfaces using **shadcn/ui** and **Vite**.
+
+---
+
+### 🌐 Connect
+<p align="left">
+  <a href="https://github.com/AslamtoIbrahim">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" alt="Email" />
+  </a>
 </p>
 
-## 📊 BRAHIM's GitHub Stats Card
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AslamtoIbrahim&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
+### 📈 GitHub Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AslamtoIbrahim&show_icons=true&theme=dark&hide_border=true)
 
-## 📈 GitHub Profile Summary
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AslamtoIbrahim&theme=dark" alt="Profile Details" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AslamtoIbrahim&show&theme=dark&hide_border=false" alt="Streak Stats" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AslamtoIbrahim&theme=dark&hide_border=true)
 
-## 🛠 Tech Skills
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="TailwindCSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13D3F7&width=435&lines=Thank+you+for+visiting+my+profile+%F0%9F%98%8D" alt="Thank you" />
-</p>
+---
+*Built with ❤️ by Brahim*
